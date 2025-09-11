@@ -18,12 +18,14 @@ Early detection of diabetes aids in earlier management yet many people remain un
 
 The objective of this project is to **develop a machine learning model that predicts whether an individual has diabetes using survey-based health, lifestyle, and demographic data**.
 
-Who benefits from this model?
+**Who benefits from this model?**
+
 * **Healthcare providers** through early identification of high-risk individuals for further screening.
-* **Public health organizations** that they mayallocate resources effectively.
+* **Public health organizations** that they may allocate resources effectively.
 * **Individuals** gain awareness of their risk factors and take preventive action.
 
-ML Task
+**ML Task**
+
 This is a **binary classification problem**:
 
 * **Target variable**: Diabetes status (0 = No diabetes, 1 = Diabetes).
