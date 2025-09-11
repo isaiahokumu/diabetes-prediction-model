@@ -1,22 +1,15 @@
 # Diabetes Prediction using BRFSS Survey Data
 
-This project uses the **Behavioral Risk Factor Surveillance System (BRFSS)** dataset to develop machine learning models that predict whether a respondent has diabetes. The project follows a complete machine learning pipeline, including **problem definition, data understanding, preprocessing, modeling, evaluation, interpretation, and error analysis**.
 
 ---
 
 ## 1. Project Selection
 
-* **Problem Statement**: Diabetes is one of the leading chronic diseases globally, with significant health and economic impacts. Early identification of at-risk individuals can help guide preventive interventions.
-* **Goal**: Build a **classification model** to predict the likelihood of diabetes using health, demographic, and lifestyle survey data.
-* **Dataset**: Derived from the **CDC BRFSS 2015 survey** ([CDC BRFSS Codebook](https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf)).
+This project uses the **Behavioral Risk Factor Surveillance System (BRFSS)** dataset to develop machine learning models that predict whether a respondent has diabetes. The project follows a complete machine learning pipeline, including **problem definition, data understanding, preprocessing, modeling, evaluation, interpretation, and error analysis**.
 
 ---
 
 ## 2. Problem Definition
-Here’s a strong **problem statement for diabetes prediction** that you can use in your capstone or README:
-
----
-
 ## Problem Statement
 
 Diabetes is a chronic health condition that affects how the body regulates blood sugar (glucose). If left unmanaged, it can lead to severe complications such as heart disease, kidney failure, blindness (ROP), and premature death. Globally, diabetes prevalence is rising, putting significant strain on individuals, healthcare systems, and economies.
